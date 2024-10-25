@@ -1,0 +1,54 @@
+git config --global user.name "Puspaperam"
+git config --global user.email "puspaperam@gmail.com"
+git config --list
+
+git clone url code
+cd Batch106/
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "sample file1"
+git status
+git log
+git show
+git push
+-----------------
+to create more files
+
+touch file2 file3 file4
+ls
+git status
+git add file2 file3 file4
+git status
+git commit -m " file2 to file4"
+git status
+git log
+git show
+
+git show commtid
+git push
+
+-----------------------------
+to create more files
+
+
+touch f2 f3 f4
+ls
+git status
+git add f2 f3 f4
+git status
+git commit -m " f2 to f4"
+git status
+git log
+git show
+git push
+
+git commands upload into git account
+
+touch git-commands------ ope file and open commands save it.
+
+git add .
+git commit -m "sample commands"
+git push
